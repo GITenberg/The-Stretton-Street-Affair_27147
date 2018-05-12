@@ -1,0 +1,34 @@
+_repo: The-Stretton-Street-Affair_27147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Tufnell Le
+    - Queux, William Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: Mr. Le Queux breaks all records for speed and thrills. And he tells you,
+  too, about orosin, that newly discovered poison, a drop of which, on cigar or cigarette,
+  renders the smoker unconscious. A gripping detective and mystery story. Every page
+  presents a baffling situation, and all lead to the most unusual climax of the times.
+gutenberg_issued: '2008-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27147'
+  lccn: '22004826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+title: The Stretton Street Affair
+url: http://www.gutenberg.org/ebooks/27147
